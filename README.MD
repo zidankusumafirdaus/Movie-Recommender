@@ -1,8 +1,7 @@
-# Movie Recommendation
+# Movie Recommender
 
 Deskripsi:
-- Aplikasi ini adalah demo sistem rekomendasi film hybrid (collaborative filtering + content-based + popular fallback).
-- Terdiri dari backend (Flask + TensorFlow Recommenders, SQLite) dan frontend (React + Vite, Tailwind).
+Aplikasi ini adalah demo sistem rekomendasi film hybrid (collaborative filtering + content-based + popular fallback). Terdiri dari backend (Flask + TensorFlow Recommenders, SQLite) dan frontend (React + Vite, Tailwind).
 
 Quickstart:
 - Jalankan backend: lihat `backend/README.md` (virtualenv, `python migrate.py`, `python server.py`).
