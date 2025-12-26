@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Python tools
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# dotenv / instance config
+.env
+.env.*
+instance/
+
+# SQLite database files (local runtime)
+*.db
+database/*.db
+
+# TensorFlow / model artifacts
+saved_model/
+ckpt*
+checkpoint
+
+# Logs, temp
+logs/
+*.log
+tmp/
+temp/
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
